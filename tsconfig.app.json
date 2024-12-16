@@ -8,7 +8,6 @@
       ]
     },
     "types": [
-      "element-plus/global",
       "unplugin-vue-router/client"
     ]
   },
@@ -26,6 +25,7 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "./typed-router.d.ts"
+    "./src/typed-router.d.ts",
+    "auto-imports.d.ts"
   ]
 }
