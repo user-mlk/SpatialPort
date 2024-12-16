@@ -11,6 +11,7 @@
     <el-button type="warning">Warning</el-button>
     <el-button type="danger">Danger</el-button>
   </div>
+  <el-icon><CirclePlus /></el-icon>
 </template>
 
 <script lang="ts" setup>
