@@ -12,6 +12,7 @@
     <el-button type="danger">Danger</el-button>
   </div>
   <el-icon><CirclePlus /></el-icon>
+  <h1 class="text-3xl font-bold underline mt-[50px]">Hello world!</h1>
 </template>
 
 <script lang="ts" setup>

@@ -2,6 +2,7 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
 import '@/styles/index.scss'
+import '@/styles/tailwind.scss'
 
 import 'element-plus/dist/index.css'
 // If you want to use ElMessage, import it.
